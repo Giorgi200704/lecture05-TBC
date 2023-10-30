@@ -1,6 +1,9 @@
 <!DOCTYPE html>
 <html>
 <head>
+	<link rel="stylesheet" type="text/css" href="css/css.style">
+	<link rel="stylesheet" type="text/css" href="css/reset.css">
+
 	<title>davaleba 5</title>
 </head>
 <body>
