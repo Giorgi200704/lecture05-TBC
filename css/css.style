@@ -1,3 +1,8 @@
 P {
 	color: red;
 }
+
+#boxN1 {
+	width: 40px;
+	height: 30px;
+}
